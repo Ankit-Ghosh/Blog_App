@@ -41,13 +41,6 @@ To set up and run this project locally, follow these steps:
 
    Open your browser and go to `http://localhost/Blog_App` to access the Blog Application.
 
-## Usage
-
-- **Sign Up**: Create a new account to start creating blog posts.
-- **Login**: Login with your credentials to manage your blogs.
-- **Create Blog Post**: Add new content using the "Create" option.
-- **Edit/Delete Blog Post**: Modify or remove your existing posts.
-
 ## Contributing
 
 Contributions are welcome! Please follow these steps:
@@ -61,7 +54,3 @@ Contributions are welcome! Please follow these steps:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or suggestions, please feel free to contact me at [ankit.ghosh@example.com](mailto:ankit.ghosh@example.com).
