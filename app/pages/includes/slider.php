@@ -7,19 +7,19 @@
     <ol>
       <li>
         <img src="<?=ROOT?>/assets/images/1.jpg">
-        <div class="ism-caption ism-caption-0">My slide caption text</div>
+        <div class="ism-caption ism-caption-0">Trending #1</div>
       </li>
       <li>
         <img src="<?=ROOT?>/assets/slider/ism/image/slides/beautiful-701678_1280.jpg">
-        <div class="ism-caption ism-caption-0">My slide caption text</div>
+        <div class="ism-caption ism-caption-0">Trending #2</div>
       </li>
       <li>
         <img src="<?=ROOT?>/assets/slider/ism/image/slides/summer-192179_1280.jpg">
-        <div class="ism-caption ism-caption-0">My slide caption text</div>
+        <div class="ism-caption ism-caption-0">Trending #3</div>
       </li>
       <li>
         <img src="<?=ROOT?>/assets/slider/ism/image/slides/city-690332_1280.jpg">
-        <div class="ism-caption ism-caption-0">My slide caption text</div>
+        <div class="ism-caption ism-caption-0">Trending #4</div>
       </li>
     </ol>
   </div>
