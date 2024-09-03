@@ -1,7 +1,3 @@
-Sure! Here's a suggested README content for your GitHub repository, "Blog_App." You can adjust the content based on the specific features and functionality of your project:
-
----
-
 # Blog App
 
 A simple and interactive web-based Blog Application built with PHP, HTML, CSS, and JavaScript. This project allows users to create, view, edit, and delete blog posts, providing a comprehensive platform for managing blog content. The application features user authentication and session management to ensure secure access.
@@ -69,7 +65,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For any questions or suggestions, please feel free to contact me at [ankit.ghosh@example.com](mailto:ankit.ghosh@example.com).
-
----
-
-Feel free to adjust any section according to your project specifics or preferences!
