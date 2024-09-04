@@ -1,5 +1,7 @@
 # Blog App
 
+![blog-logo](https://github.com/user-attachments/assets/92aab61b-b7bf-4603-ae58-356c79722b9b)
+
 A simple and interactive web-based Blog Application built with PHP, HTML, CSS, JavaScript and MySQL. This project allows users to create, view, edit, and delete blog posts providing a comprehensive platform for managing blog content. The application features user authentication and session management to ensure secure access.
 
 ## Features
