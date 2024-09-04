@@ -215,7 +215,7 @@
             </tr>
 
             <?php
-            $limit = 5;
+            $limit = 3;
             $offset = ($PAGE['page_number'] - 1) * $limit;
 
             $query = "SELECT * FROM posts order by id desc limit $limit offset $offset";

@@ -50,7 +50,7 @@ if($action=='add')
       $data=[];
       $data['title'] = $_POST['title'];
       $data['content'] = $_POST['content'];
-      $data['category_id'] = $_POST['category'];
+      $data['category_id'] = $_POST['category_id'];
       $data['slug'] = $slug;
       $data['user_id'] = user('id');
       
