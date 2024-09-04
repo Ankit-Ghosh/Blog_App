@@ -24,7 +24,6 @@
   else if ($section == 'posts') {
     require_once "../app/pages/admin/posts-controller.php";
   }
-  
 
 
 ?>
