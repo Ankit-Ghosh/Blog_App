@@ -219,7 +219,7 @@
 <main class="form-signin w-100 m-auto">
   <form method="post">
     <a href="home">
-      <img class="mb-4 rounded-circle shadow" src="<?=ROOT?>/assets/images/logo.jpg" alt="" width="92" height="92">
+      <img class="mb-4 rounded-circle shadow" src="<?=ROOT?>/assets/images/blog-logo.jpg" alt="" width="92" height="92">
     </a>
     <h1 class="h3 mb-3 fw-normal">Create account</h1>
       <?php if(!empty($errors)): ?>
