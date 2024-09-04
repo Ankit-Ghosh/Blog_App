@@ -78,7 +78,8 @@ To set up and run this project locally, follow these steps:
 ![18 blog-database](https://github.com/user-attachments/assets/1214bab5-393d-498b-bdde-453656d3b412)
 ![19 users-schema](https://github.com/user-attachments/assets/d5394c8c-259a-4014-abd6-5ce1c0b46f5f)
 ![20 category-schema](https://github.com/user-attachments/assets/56140423-ba3c-4271-8440-712a3b7b1188)
-![21 posts-schema](https://github.com/user-attachments/assets/e124285b-c1e7-42c0-9294-568a056091f1)
+![21 posts-schema](https://github.com/user-attachments/assets/70547d30-d345-4678-b7ab-957ce5262595)
+
 
 
 ## Contributing
