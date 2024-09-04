@@ -8,7 +8,7 @@
 <div class="row mb-2 justify-content-center">
     <?php
 
-    $query = "SELECT posts.*,categories.category FROM posts join categories on posts.category_id = categories.id ORDER BY id DESC LIMIT 6";
+    $query = "SELECT posts.*,categories.category FROM posts join categories on posts.category_id = categories.id ORDER BY id DESC LIMIT 3";
     $rows = query($query);
 
     if($rows){
