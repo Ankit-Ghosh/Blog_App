@@ -14,7 +14,7 @@ A simple and interactive web-based Blog Application built with PHP, HTML, CSS, J
 
 ## Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS, JavaScript and Bootstrap
 - **Backend**: PHP
 - **Database**: MySQL
 
